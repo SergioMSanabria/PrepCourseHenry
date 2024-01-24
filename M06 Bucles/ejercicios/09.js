@@ -12,7 +12,13 @@ function conection(status) {
     return "Away"
   } else {
     return "Offline"
-  }
 }
-
+//}
+//switch (status){
+//  case 1:
+ //   return "Online"
+//switch (status){
+//  case 1:
+//    return "Online"
+}
 module.exports = conection;
