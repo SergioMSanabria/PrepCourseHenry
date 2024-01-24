@@ -17,6 +17,6 @@ function esNumeroPrimo(numero) {
     }
   }
 return true
-}
+} 
 
 module.exports = esNumeroPrimo;

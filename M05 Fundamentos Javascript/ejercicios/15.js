@@ -9,4 +9,5 @@ function menosQueNoventa(num) {
   }
 }
 
+//return num < 90 ? true : false;
 module.exports = menosQueNoventa;
